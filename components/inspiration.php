@@ -1,7 +1,17 @@
 <div class="space-y-6">
     <div class="card">
-        <h2 class="text-2xl font-bold text-yellow-800 mb-6 text-center">💡 Color Inspiration</h2>
-        <p class="text-yellow-600 text-center mb-6">Learn about color theory, psychology, and design principles</p>
+        <h2 class="text-2xl font-bold text-yellow-800 mb-6 text-center">💡 The Blank Canvas</h2>
+        <p class="text-yellow-600 text-center mb-6">There was once a young designer named Lira who was obsessed with perfection. Every time she opened her sketchbook, she would freeze. The pages stayed empty, not because she lacked talent, but because she feared creating something wrong.
+
+One day, while walking through the city, she noticed an elderly street artist painting on a torn wall. The paint dripped. The lines were messy. But people gathered, smiling and taking photos. Curious, Lira approached him and asked, “Don’t you mind the cracks? The dirt? The mistakes?”
+
+The artist smiled and replied, “The wall isn’t perfect. Neither is my work. But that’s what makes it real. Design isn’t about control—it’s about connection.”
+
+That night, Lira returned home and opened her sketchbook. She stopped trying to create the perfect design. Instead, she began telling stories with color and line—flawed, raw, honest.
+
+Soon, her work started to resonate. Clients didn’t just hire her for her skills; they hired her for her vision. The fear of the blank canvas faded, replaced by the excitement of exploration.
+
+Because she finally understood: great design doesn’t begin with perfection—it begins with courage.</p>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
